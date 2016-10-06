@@ -10,7 +10,7 @@
  * Mike Talks, Aug 2016
  */
 
-public class usingOperators {
+public class UsingOperators {
 
 
 	public static void main(String[] args) {
